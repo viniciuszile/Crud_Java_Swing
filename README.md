@@ -6,7 +6,7 @@
 - [Descrição](#descrição)
 - [Instalação](#instalação)
 - [Utilização](#utilização)
-- [Contribuição](#contribuição)
+- [Redes Sociais](#redes-sociais)
 - [Licença](#licença)
 
 ## Tecnologias Utilizadas
@@ -52,15 +52,23 @@ Para utilizar este projeto, siga os passos abaixo:
 4. Execute o projeto no NetBeans.
 5. Acesse a aplicação e utilize as funcionalidades do CRUD para gerenciar os registros no banco de dados.
 
-Assista ao [vídeo tutorial](https://youtu.be/zoqZRexHbIo) para um guia passo a passo sobre a utilização do projeto.
+Assista a este vídeo de demonstração para ver o projeto em ação:
+
+![Demonstração da utilização](https://github.com/viniciuszile/Crud_Java_Swing/raw/main/2023-05-15%2014-51-38.gif)
 
 Certifique-se de seguir corretamente as instruções e aproveite o poder do CRUD com Java Swing para o gerenciamento eficiente de dados.
 
 
-## Contribuição
+## Redes Sociais
 
-Se você deseja que outras pessoas contribuam para o seu projeto, é útil fornecer diretrizes sobre como fazê-lo.
+Você pode me encontrar nas seguintes redes sociais:
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-zile-91814a21a/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)
+
+- [Instagram](https://www.instagram.com/viniciuszile/) ![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)
 
 ## Licença
 
-Indique a licença sob a qual o seu projeto está sendo disponibilizado.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+© 2023 Viniciuszile. Todos os direitos reservados.
