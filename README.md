@@ -1,6 +1,6 @@
 # Projeto Crud com Java usando Swing.
 
-## Sumário 📝
+## Sumário 📚
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Descrição](#descrição)
@@ -16,11 +16,11 @@
 ![Java Swing](https://img.shields.io/badge/Java-Swing-orange?logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-IDE-orange?logo=apache-netbeans-ide&logoColor=white)
 
-## Descrição
+## Descrição 📝
 
 Este repositório contém um projeto acadêmico com um CRUD em Java Swing. A interface intuitiva permite criar, visualizar, atualizar e excluir registros em um banco de dados, simplificando o gerenciamento de dados.
 
-## Instalação
+## Instalação ⚙
 
 Para utilizar este projeto, você precisará das seguintes ferramentas instaladas em seu ambiente:
 
@@ -42,7 +42,7 @@ Siga as instruções abaixo para configurar seu ambiente:
 Certifique-se de ter todas as dependências instaladas corretamente antes de prosseguir.
 
 
-## Utilização
+## Utilização 💻
 
 Para utilizar este projeto, siga os passos abaixo:
 
@@ -59,7 +59,7 @@ Assista a este vídeo de demonstração para ver o projeto em ação:
 Certifique-se de seguir corretamente as instruções e aproveite o poder do CRUD com Java Swing para o gerenciamento eficiente de dados.
 
 
-## Redes Sociais
+## Redes Sociais 📱
 
 Você pode me encontrar nas seguintes redes sociais:
 
@@ -67,7 +67,7 @@ Você pode me encontrar nas seguintes redes sociais:
 
 - [Instagram](https://www.instagram.com/viniciuszile/) ![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)
 
-## Licença
+## Licença 🔒
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
